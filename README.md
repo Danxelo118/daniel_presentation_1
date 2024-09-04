@@ -2,7 +2,7 @@
 Martin Messier
 
 Logiciels : MAX, Arduino,
-Materiels: Fils blancs passé dans du papier sable, moteur
+Materiels: Fils blancs passé dans du papier sable, moteur, détectuer de mouvement
 
 ## premier titre 2
 
