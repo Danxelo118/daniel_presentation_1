@@ -1,4 +1,4 @@
-# I love shung
+# Cycles 
 modèle de page docsify pour une publication via page sans actions 
 
 
