@@ -1,4 +1,4 @@
-# docsify-modele-classique
+# I love shung
 modèle de page docsify pour une publication via page sans actions 
 
 
