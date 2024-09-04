@@ -1,8 +1,8 @@
 # Cycles 
 Martin Messier
 
-Logiciels : MAX, Arduino,
-Materiels: Fils blancs passé dans du papier sable, moteur, détectuer de mouvement, audiovisuel speaker
+Logiciels : MAX, Arduino.
+Materiels: Fils blancs passé dans du papier sable, moteur fait tourner la boucle, audiovisuel speaker, buse orientable contenant deux moteurs fait changer de direction les fils, lumières.
 
 ## premier titre 2
 
