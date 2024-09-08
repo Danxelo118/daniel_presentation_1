@@ -1,5 +1,5 @@
 # Cycles de Martin Messier
-présentation par Daniel Dezemma
+Présentation par Daniel Dezemma
 
 ## Qui ? 
 - Idéation, composition audiovisuelle, programmation et musique : Martin Messier
