@@ -1,5 +1,5 @@
-# Cycles 
-par Daniel Dezemma
+# Cycles de Martin Messier
+présentation par Daniel Dezemma
 ![image_1_front.webp](Autumn_session_2024/gestion_projet/image_1_front.webp)
 
 ## Qui ? 
