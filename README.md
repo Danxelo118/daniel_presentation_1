@@ -1,4 +1,6 @@
 # Cycles 
+par Daniel Dezemma
+
 Martin Messier
 notes: 
 Logiciels : MAX, Arduino.
