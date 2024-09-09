@@ -1,6 +1,6 @@
 # Cycles de Martin Messier
 Présentation par Daniel Dezemma
-![image_1_front](images/image_1_front)
+![image_1_front](images/image_1_front.webp)
 ## Qui ? 
 - Idéation, composition audiovisuelle, programmation et musique : Martin Messier
 - Design, construction et électronique : David Gardener
