@@ -27,7 +27,10 @@ Ces dialogues se retrouvent également dans l’espace sonore : les moteurs acco
 - Logiciels : Arduino, Max.
 
 ## Comment ? 
-- Des fils blancs passé dans du papier de sable pour les permettre de flotter sont installés dans des buses orientales qui contiennent deux moteurs qui les permet de les faire changer de direction. Il y a également un moteur qui permet aux fils de tourner en boucle. Tout cela en harmonie avec de la lumière et des effets sonores d'ambiance qui ressortes de speakers installés au dessus des fils. Les logiciels d'Arduino et Max permettent également au fonctionnment de l'oeuvre. Bref, l'oeuvre utilise de l'audiovisuel pour capter l'attention des spectateurs. 
+![image_2](images/image_2.webp)
+- Des fils blancs passé dans du papier de sable pour les permettre de flotter sont installés dans des buses orientales qui contiennent deux moteurs qui les permet de les faire changer de direction. Il y a également un moteur qui permet aux fils de tourner en boucle. Tout cela en harmonie avec de la lumière et des effets sonores d'ambiance qui ressortes de speakers installés au dessus des fils. Les logiciels d'Arduino et Max permettent également au fonctionnment de l'oeuvre. Bref, l'oeuvre utilise de l'audiovisuel pour capter l'attention des spectateurs.
+- ![image_3](images/image_3.webp)
+- ![image_4](images/image_4.webp)
 
 ## Appréciation et commentaire personnel
 - J'ai choisi cet oeuvre parce que c'est une oeuvre qui m'a beaucoup parlé. Je trouvais l'aspect audiovisuel vraiment hypnotisant et emmerveillant. L'ambiance musicale me mettait vraiment dans un état calme et complentatif. C'est l'oeuvre qui m'a le plus marqué de la visite du premier cours et dont je me rappelle le plus de détails.
