@@ -32,11 +32,4 @@ Ces dialogues se retrouvent également dans l’espace sonore : les moteurs acco
 ## Appréciation et commentaire personnel
 - J'ai choisi cet oeuvre parce que c'est une oeuvre qui m'a beaucoup parlé. Je trouvais l'aspect audiovisuel vraiment hypnotisant et emmerveillant. L'ambiance musicale me mettait vraiment dans un état calme et complentatif. C'est l'oeuvre qui m'a le plus marqué de la visite du premier cours et dont je me rappelle le plus de détails.
 
-  
-notes: 
-Logiciels : MAX, Arduino.
-Materiels: Fils blancs passé dans du papier sable, moteur fait tourner la boucle, audiovisuel speaker, buse orientable contenant deux moteurs fait changer de direction les fils, lumières.
 
-## premier titre 2
-
-## deuxième titre 2
