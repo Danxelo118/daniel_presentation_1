@@ -32,4 +32,7 @@ Ces dialogues se retrouvent également dans l’espace sonore : les moteurs acco
 ## Appréciation et commentaire personnel
 - J'ai choisi cet oeuvre parce que c'est une oeuvre qui m'a beaucoup parlé. Je trouvais l'aspect audiovisuel vraiment hypnotisant et emmerveillant. L'ambiance musicale me mettait vraiment dans un état calme et complentatif. C'est l'oeuvre qui m'a le plus marqué de la visite du premier cours et dont je me rappelle le plus de détails.
 
+## Source 
+- [Martin Messier](https://martinmessier.art/cycles.html)
+- [Mutek](https://village-numerique.mutek.org/fr/installations/cycles-par-martin-messier)
 
